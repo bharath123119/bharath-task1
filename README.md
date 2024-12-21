@@ -12,10 +12,13 @@ Duration:December,2024 to January,2025,
 Mentor:Neela Santhosh Kumar.
 
 
-#Task1:
+
+#Task1
 
 
-Sales Performance Dashboard
+
+Sales Performance Dashboard:
+
 
 Data set:"C:\Users\Bharath\Downloads\SuperStore Sales DataSet (1).xlsx"
 
