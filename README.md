@@ -8,6 +8,8 @@ Mentor:Neela Santhosh Kumar.
 
 
 #Project1 
+
+
 Sales Performance Dashboard
 Data set:"C:\Users\Bharath\Downloads\SuperStore Sales DataSet (1).xlsx"
 Dashboard:"C:\Users\Bharath\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 094233.png"
