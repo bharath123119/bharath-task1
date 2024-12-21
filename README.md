@@ -25,5 +25,5 @@ Step9:Create a dashboard for "Sum of Sales by month" by using "Funnel".
 Step10:Create a dashboard for"Sum of Quantity by year" by using "Donut chart".
 Step11:Create a dashboard for "Count of region by Customer id", by using "Stacked column chart.
 
-Conclusion:Craete all dashboard for Sales Performance Dashboard.
+Conclusion:Craete all dashboards for Sales Performance Dashboard.
 
