@@ -30,7 +30,7 @@ Step1:Prepare a Sales Performance dataset.
 
 Step2:Import data into the Excel,we have to check all columns are unique values or not.
 
-Step3:If any duplicate Columns remove the columns.\
+Step3:If any duplicate Columns remove the columns.
 
 Step4:Import data set into power bi desktop,first we have to transform  data,then if any dupictaes or null values delete it.
 
