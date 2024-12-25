@@ -19,11 +19,6 @@ Mentor:Neela Santhosh Kumar.
 
 Sales Performance Dashboard:
 
-
-Data set:"C:\Users\Bharath\Downloads\SuperStore Sales DataSet (1).xlsx"
-
-Dashboard:"C:\Users\Bharath\OneDrive\Pictures\Screenshots\Screenshot 2024-12-21 094233.png"
-
 Process:
 
 Step1:Prepare a Sales Performance dataset.
