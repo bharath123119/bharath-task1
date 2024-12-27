@@ -44,5 +44,5 @@ Step10:Create a dashboard for"Sum of Quantity by year" by using "Donut chart".
 Step11:Create a dashboard for "Count of region by Customer id", by using "Stacked column chart".
 
 
-Conclusion:Create some Dashboards for Sales Performance Dashboard.
+Conclusion:Create some Dashboards using Sales Performance dataset.
 
